@@ -1,6 +1,6 @@
-Hi, I am Aurghyadip, I'm a teacher and I teach High School and Undergrad students Computer Science. I am currently looking for a permanent job as a lecturer in a college.
+Hello there, I am Aurghyadip and I try to teach computer science to the best of my knowledge. I finished my Masters in Computer Science and Technology and I have plans to get into PhD soon enough.
 
-- 🔭 Currently working on getting a PhD and a personal project on EdTech.
-- 🌱 Learning Social Media Management.
-- 📫 How to reach me: adkundu@gmail.com
-- 😄 Pronouns: He/him
+Socials:
+- [Twitter](https://twitter.com/aurghyadip)
+- [Instagram](https://www.instagram.com/aurghyadip)
+- [LinkedIn](https://www.linkedin.com/in/aurghyadip-kundu-b19bb748/)
