@@ -1,5 +1,5 @@
 ## About Me
-Hello there, I am Aurghyadip and I try to teach computer science to the best of my knowledge. I finished my Masters in Computer Science and Technology and I have plans to get into PhD soon enough.
+Hello there, I am Aurghyadip. I am currently working as an Assistant Professor in the Department of Information Technology at Calcutta Institute of Engineering and Management.
 
 ## Socials
 <a href="https://www.linkedin.com/in/aurghyadip-kundu-b19bb748/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
