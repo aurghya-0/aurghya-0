@@ -1,8 +1,26 @@
-## About Me
-Hello there, I am Aurghyadip. I am currently working as an Assistant Professor in the Department of Information Technology at Calcutta Institute of Engineering and Management.
+# Hi there 👋, I'm Aurghyadip Kundu!
 
-## Socials
-<a href="https://www.linkedin.com/in/aurghyadip-kundu-b19bb748/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/aurghyadip" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/aurghyadip" target="_blank"><img src="https://img.shields.io/twitter/follow/aurghyadip"></a>
-<a href="https://open.spotify.com/user/7o7l93a8kxy160ze070au2hn5" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+I'm an Assistant Professor in Calcutta Institute of Engineering and Management. My focus areas include Education, AI-ML, Automation, JavaScript, and Python.
+
+## 👨🏻‍💻 Professional Details
+- 🔭 I'm currently working on "AI-ML and Automation in Healthcare Industry".
+- 🌱 I'm currently learning new technologies and languages to enhance my knowledge.
+- 👯 I'm looking to collaborate on interesting AI-ML projects.
+- 💬 Ask me about anything related to AI-ML, Automation, JavaScript, and Python.
+
+## 💻 Skills
+- AI-ML
+- Automation
+- Android Development
+- JavaScript
+- Python
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AurghyadipKundu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aurghyadip-kundu-b19bb748)
+[![Twitter](https://img.shields.io/badge/Twitter-AurghyadipKundu-blue?style=for-the-badge&logo=twitter)](https://twitter.com/aurghyadip)
+[![GitHub](https://img.shields.io/badge/GitHub-aurghya--0-blue?style=for-the-badge&logo=github)](https://github.com/aurghya-0)
+
+## 🎉 Fun Facts
+- 🎮 I love playing video games.
+- 🎧 Music is my favorite stress-buster.
+- 📚 I enjoy reading books on technology and science.
