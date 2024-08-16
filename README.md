@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aurghyadip Kundu!
 
-I'm an Assistant Professor in Parul Institute of Engineering and Technology, Parul University in Vadodara, Gujarat. My focus areas include Education, AI-ML, Automation, JavaScript, and Python.
+I'm working as an Assistant Professor of Computer Science and Engineering. My focus areas include Education, AI-ML, Automation, JavaScript, and Python.
 
 ## 👨🏻‍💻 Professional Details
 - 🔭 I'm currently working on "AI-ML and Automation in Healthcare Industry".
